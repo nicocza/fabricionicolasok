@@ -2,7 +2,7 @@
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -17,9 +17,13 @@
   <a href= "https://www.linkedin.com/in/fabricionicolasok/">
 <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </span>
-<h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=fabricionicolasok&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/fabricionicolasok)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=fabricionicolasok&theme=material-palenight)](https://github.com/fabricionicolasok)
-</div>
+<h2>GitHub Analytics:</h2>
+
+<p align="center">
+<a href="https://github.com/fabricionicolasok">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabricionicolasok&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabricionicolasok&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
