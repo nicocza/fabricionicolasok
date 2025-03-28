@@ -16,8 +16,6 @@
 <span>
   <a href= "https://www.linkedin.com/in/fabricionicolasok/">
 <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    <a href= "https://outlook.live.com/fabricionicolascarranza@outlook.com">
-      <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </span>
 <h2>Github stats:</h2> 
 
