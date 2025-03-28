@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Fabricio Nicolas Carranza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-- 🌱 I’m currently learning Java.
+🌱 I’m currently learning Java.
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
