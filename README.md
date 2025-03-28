@@ -20,10 +20,6 @@
 
 <h4> <div><p>My profile overview: </p></div> </h4>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=fabricionicolasok&show_icons=true)
-<br />
-<br />
-<br />
-
+<img src="https://github-readme-stats.vercel.app/api?username=fabricionicolasok&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true">
 
 
