@@ -18,8 +18,9 @@
 <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </span>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fabricionicolasok&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="fabricionicolasok" 
-    bg_color=#808080/></p>
+<h4> GitHub Stats </h4>
+<span>
+  <a href="https://github.com/fabricionicolasok">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabricionicolasok&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</span>
