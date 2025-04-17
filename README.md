@@ -18,8 +18,8 @@
 <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </span>
 
-<h4> GitHub Stats </h4>
-  <a href="https://github.com/fabricionicolasok">
-    <img src="https://github-readme-stats.vercel.app/api?username=fabricionicolasok&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=fabricionicolasok&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="fabricionicolasok" 
+    bg_color=#808080/></p>
