@@ -2,7 +2,6 @@
 <h4> Languages </h4>
 <span> 
   <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
