@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Fabricio Nicolas Carranza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4> Languages </h4>
 <span> 
-  <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg">
+  <img width = '32px' src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
